@@ -1,3 +1,5 @@
 Nome: Euclides
 Número de telefone: 932 202 340
 Ano de nascimento: 16/07/2000
+Nacionalidade: Angolana
+País de residência: Portugal
